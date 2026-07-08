@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://priyakumari.vercel.app/
+
+# Sitemaps
+Sitemap: https://priyakumari.vercel.app/sitemap.xml
